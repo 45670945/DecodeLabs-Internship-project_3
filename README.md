@@ -263,6 +263,25 @@ MySQL processes your query in this order — **not** top to bottom:
 
 ---
 
+## 👨‍💻 Author
+ 
+| | |
+|--|--|
+| 👤 **Name** | Thilani Senarath |
+| 💼 **Role** | Data Analytics Intern |
+| 🏢 **Organization** | DecodeLabs |
+| 📅 **Batch** | 2026 |
+ 
+---
+ 
+## 📜 License
+ 
+This project is created for **educational and learning purposes only**.
+ 
+All SQL queries, analysis, and documentation in this repository are part of the DecodeLabs Industrial Training Program and are intended solely for skill development and portfolio building.
+ 
+---
+
 ## 📞 About DecodeLabs
 
 | | |
